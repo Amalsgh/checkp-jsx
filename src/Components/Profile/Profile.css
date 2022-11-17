@@ -1,0 +1,50 @@
+* {
+    background-color: beige;
+}
+.nav {
+    padding-top: 20px;
+    padding-left: 100px;
+
+    width: 1000px;
+}
+p {
+    color: orange;
+    padding-left: 150px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    text-align: left;
+}
+img {
+    height: 450px;
+    width: 390px;
+    padding-top: 50px;
+    margin-left: 400px;
+    
+}
+.name {
+    display: flex;
+}
+.intro button {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+    font-weight: bold !important;
+    margin-top: 0rem !important;
+    margin-left: 60%;
+    color: orange;
+}
+.phrase p {
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20%;
+    font-size: 20px;
+}
+.container p {
+    color: black;
+    font-size: 17px;
+    padding-left: 1px;
+    font-weight: 400;
+    
+}
+
+
